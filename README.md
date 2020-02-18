@@ -20,4 +20,4 @@ To compile the ring3 module just run `gcc userland.c -o userland`
 
 ## Disclaimer
 
-This project is a college project for my Operating System course and it's not by any means perfect.
+This is a college project for my Operating System course and it's not by any means perfect.
